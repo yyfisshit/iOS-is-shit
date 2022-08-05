@@ -2642,14 +2642,14 @@ Most of these are paid services, some have free tiers.
 #### Table View
 
 - [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
-- [YXTPageView](https://github.com/hanton/YXTPageView) - A PageView, which supporting scrolling to transition between a UIView and a UITableView.
-- [ConfigurableTableViewController](https://github.com/fastred/ConfigurableTableViewController) - Typed, yet Flexible Table View Controller https://holko.pl/2016/01/05/typed-table-view-controller/
-- [Lightning-Table](https://github.com/electrickangaroo/Lightning-Table) - A declarative api for working with UITableView.
+- [~~YXTPageView~~](https://github.com/hanton/YXTPageView) - 原因：太老了 A PageView, which supporting scrolling to transition between a UIView and a UITableView.
+- [~~ConfigurableTableViewController~~](https://github.com/fastred/ConfigurableTableViewController) - 原因：太老了 Typed, yet Flexible Table View Controller https://holko.pl/2016/01/05/typed-table-view-controller/
+- [~~Lightning-Table~~](https://github.com/electrickangaroo/Lightning-Table) - 原因：太老了 A declarative api for working with UITableView.
 - [Static](https://github.com/venmo/Static) - Simple static table views for iOS in Swift.
-- [AMWaveTransition](https://github.com/andreamazz/AMWaveTransition) - Custom transition between viewcontrollers holding tableviews.
-- [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) - An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
-- [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - a TableView have thumbnail cell only, and you can use gesture let it expands other expansionView, all diy
-- [BWSwipeRevealCell](https://github.com/bitwit/BWSwipeRevealCell) - A Swift library for swipeable table cells
+- [~~AMWaveTransition~~](https://github.com/andreamazz/AMWaveTransition) -  原因：太老了,OC Custom transition between viewcontrollers holding tableviews.
+- [~~SWTableViewCell~~](https://github.com/CEWendel/SWTableViewCell) - 原因：太老了 An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
+- [~~ZYThumbnailTableView~~](https://github.com/liuzhiyi1992/ZYThumbnailTableView) 原因：太老了 - a TableView have thumbnail cell only, and you can use gesture let it expands other expansionView, all diy
+- [~~BWSwipeRevealCell~~](https://github.com/bitwit/BWSwipeRevealCell) - 原因：太老了,没啥用 A Swift library for swipeable table cells
 - [preview-transition](https://github.com/Ramotion/preview-transition) - PreviewTransition is a simple preview gallery controller
 - [QuickTableViewController](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings in Swift.
 - [TableKit](https://github.com/maxsokolov/TableKit) - Type-safe declarative table views with Swift
